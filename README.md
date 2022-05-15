@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @baki340
-- 👀 I’m interested in Artifical intelligence and games has ai also machine learning , deep learning
-- 🌱 I’m currently learning pyton and c#
-- 
+Söylediklerinize dikkat edin; düşüncelere dönüşür… 
 
+Düşüncelerinizedikkat edin; duygularınıza dönüşür… 
 
+Duygularınıza dikkat edin;davranışlarınıza dönüşür… 
+
+Davranışlarınıza dikkat edin;alışkanlıklarınıza dönüşür… 
+
+Alışkanlıklarınıza dikkat edin;değerlerinize dönüşür… 
+
+Değerlerinize dikkat edin; karakterinize dönüşür… 
+
+Karakterinize dikkat edin; kaderinize dönüşür…
+                       
+                       "Gandhi"
